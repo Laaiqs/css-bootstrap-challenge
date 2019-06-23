@@ -1,0 +1,91 @@
+body {
+
+  background-image: url("https://vergizmo.com/wp-content/uploads/2018/10/Tinder-logo.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:100%;
+}
+
+#tinderLogo{
+  width: 70px;
+  height: 40px;
+}
+
+.appText{
+  font-weight: bold;
+  font-style: italic;
+}
+
+.terms{
+  text-decoration: underline;
+  color: #4EAFD0;
+}
+
+
+#facebook{
+  background-image: linear-gradient(to right, #052E66, #085E97);
+  font-weight: bold;
+  color: white;
+  width: 350px;
+  height: 50px;
+
+-webkit-border-radius: 50px;
+-moz-border-radius: 50px;
+border-radius: 50px;
+}
+
+input{
+  width: 350px;
+  height: 50px;
+
+-webkit-border-radius: 50px;
+-moz-border-radius: 50px;
+border-radius: 50px;
+
+}
+
+.card {
+  width: 550px;
+  height: 750px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px ;
+  padding-top: 50px;
+}
+
+a{
+  text-decoration: underline;
+}
+
+.send{
+width: 150px;
+height: 50px;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+
+-webkit-box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.75);
+}
+
+.imgLogo {
+  margin-top: 0px;
+  width: 200px;
+  height: 50px;
+  object-fit: scale-down;
+}
+
+#google{
+  background-image: url(google.png);
+  background-size: 30px 30px;
+background-repeat: no-repeat;
+background-position: center;
+}
+#apple{
+
+  background-image: url(apple.png);
+  background-size: 35px 30px;
+background-repeat: no-repeat;
+background-position: center;
